@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "miniconda3/envs/donkey/bin/python",
+  "terminal.integrated.env.osx": {
+    "CONDA_DEFAULT_ENV": "donkey"
+  }
+}
